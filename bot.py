@@ -3,8 +3,7 @@ import pyautogui
 import time
 import keyboard
 import random
-import win32api
-import win32con
+import win32api, win32con
 
 time.sleep(2)
 
