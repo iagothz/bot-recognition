@@ -27,7 +27,7 @@ while keyboard.is_pressed('q') == False:
                 if b == 195:
                     flag = 1
                     click(x+396, y+257)
-                    time.sleep(0.05)
+                    time.sleep(0.1)
                     break
         if flag == 1:
             break
